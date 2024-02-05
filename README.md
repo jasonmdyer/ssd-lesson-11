@@ -1,1 +1,1 @@
-# ss-lesson-11
+# SuperSimpleDev HTML & CSS Course Lesson 10
